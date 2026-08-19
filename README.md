@@ -34,9 +34,9 @@ Soy estudiante de Ingeniería en Ciencias de la Computación en la Universidad C
 
 ### 📂 Proyectos Realizados
 
-#### 🤖 **AI Assistant RAG**
-*Implementación de un asistente inteligente utilizando arquitectura RAG (Retrieval-Augmented Generation) para consultas avanzadas sobre documentos.*
-- **Tecnologías:** Python, IA, Gestión de Datos.
+#### 🤖 **Enterprise AI Assistant (RAG)**
+*Motor avanzado de IA corporativa diseñado para leer, indexar y consultar documentos automáticamante mediante generación aumentada por recuperación (RAG).*
+- **Tecnologías:** Java (Spring Boot), Spring AI, Bases de Datos Vectoriales (Qdrant), PostgreSQL, Docker, Integración con LLMs (Groq/Ollama).
 - [💻 Ver Repositorio](https://github.com/EdlithVinueza/AI_Assistant_RAG)
 
 #### 🎓 **Portal Web Consejo de Posgrado - FICA UCE**
