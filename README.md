@@ -1,8 +1,5 @@
 # ¡Hola! Soy Edlith Vinueza
 
-<p align="center">
-  <img src="https://typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Ingeniera+en+Ciencias+de+la+Computación;Desarrolladora+Full+Stack+Enthusiast;Especialista+en+Soluciones+Cloud+(AWS)" alt="Typing SVG" />
-</p>
 
 ### 🌟 Sobre mí
 
